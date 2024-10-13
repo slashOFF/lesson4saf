@@ -1,7 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.HashMap;
-public class Main {
+public class lesson4zad1 {
         public static void main(String[] args) {
             HashMap<String, Double> orders = new HashMap<>();
             orders.put("Иван И.", 4345.5);
